@@ -163,7 +163,6 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/msm8974-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
-    vendor/oppo/msm8974-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/liblistenhardware.so:system/vendor/lib/liblistenhardware.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
     vendor/oppo/msm8974-common/proprietary/vendor/lib/liblisten.so:system/vendor/lib/liblisten.so \
